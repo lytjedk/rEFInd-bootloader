@@ -1,3 +1,7 @@
 # rEFInd-bootloader
 
-You must install rEFInd first and also the ursamajor-rEFInd theme first.
+You must install rEFInd first
+https://www.rodsbooks.com/refind/installing.html
+
+and also the ursamajor-rEFInd theme first.
+https://github.com/kgoettler/ursamajor-rEFInd
